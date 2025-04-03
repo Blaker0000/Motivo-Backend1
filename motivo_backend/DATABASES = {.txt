@@ -1,0 +1,10 @@
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'motivo_db',
+        'USER': 'postgres',
+        'PASSWORD': 'Motivo1234$',  # <-- Replace this
+        'HOST': 'localhost',
+        'PORT': '5432',
+    }
+}
