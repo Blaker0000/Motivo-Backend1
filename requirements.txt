@@ -5,4 +5,5 @@ pymupdf
 requests
 smartsheet-python-sdk
 gunicorn
+python-dotenv
 
