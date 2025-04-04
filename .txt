@@ -1,0 +1,6 @@
+flask
+flask-cors
+openai
+pymupdf
+requests
+smartsheet-python-sdk
